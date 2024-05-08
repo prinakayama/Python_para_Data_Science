@@ -20,6 +20,7 @@
 8. Numpy
    * Exploração dos dados
    * Operações entre arrays
+   * Regressao Linear
 9. Pandas
    * Pandas I/O
    * Seleção e agrupamento de dados
