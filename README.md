@@ -18,6 +18,8 @@
 6. Estrutura de dados
 7. Exceções
 8. Numpy
+   * Exploração dos dados
+   * Operações entre arrays
 9. Pandas
    * Pandas I/O
    * Seleção e agrupamento de dados
