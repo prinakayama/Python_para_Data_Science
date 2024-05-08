@@ -8,3 +8,18 @@
 <h1 align="center"><b>Python para Data Science </b></h1>
 
 <p align="center"> 
+
+
+1. Manipulação dos dados
+2. Estruturas condicionais
+3. Estruturas de repetição
+4. Bibliotecas
+5. Funções
+6. Estrutura de dados
+7. Exceções
+8. Numpy
+9. Pandas
+   * Pandas I/O
+   * Seleção e agrupamento de dados
+   * Transformação e Manipulação de dados
+   * Limpeza e Tratamento de dados
